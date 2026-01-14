@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/erda-project/erda/master/.erda/schemas/pipeline.yaml.json": "file:///c%3A/Users/PC/OneDrive/Desktop/mastering-git/.github/workflows/pipeline.yaml"
+    }
+}
