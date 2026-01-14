@@ -4,8 +4,8 @@
   "description": "Learning Deployment",
   "main": "hello.js",
   "scripts": {
-    "run": "node index.js",
-    "test": "node test.js"
+    "run": "node src/index.js",
+    "test": "node src/test.js"
   },
   "keywords": [],
   "author": "",
